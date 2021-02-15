@@ -1,5 +1,5 @@
 {
-  "name": "laravel-doctrine/acl",
+  "name": "vast-ru/laravel-doctrine-acl",
   "type": "library",
   "description": "Doctrine ACL for Doctrine 2 and Laravel",
   "license": "MIT",
